@@ -7,7 +7,7 @@ httplib2==0.10.3
 itsdangerous==0.24
 mock==2.0.0
 nose2==0.6.0
-phonenumbers==8.5.7
+phonenumbers==8.6.0
 sendgrid==4.2.0
 six==1.10.0
 simplejson==3.11.1
